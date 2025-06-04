@@ -59,7 +59,7 @@
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-12" value="查看该书籍的知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vp4kdVkUUNJDZ35TVptc-13" value="进入知识图谱页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-13" value="查看所有书籍的知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="360" width="121" height="40" as="geometry" />
         </mxCell>
       </root>
