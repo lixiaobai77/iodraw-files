@@ -62,11 +62,17 @@
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-13" value="查看所有书籍的知识图谱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="360" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vp4kdVkUUNJDZ35TVptc-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.339;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="500" as="sourcePoint" />
-            <mxPoint x="370" y="450" as="targetPoint" />
+            <mxPoint x="370" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="440" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-15" value="是否选中书籍" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
