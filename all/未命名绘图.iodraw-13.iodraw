@@ -10,7 +10,7 @@
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-2" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
           <mxGeometry x="386" y="567" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vp4kdVkUUNJDZ35TVptc-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-3" value="进入知识图谱页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
