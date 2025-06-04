@@ -13,10 +13,16 @@
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-3" value="进入知识图谱页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338.5" y="160" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vp4kdVkUUNJDZ35TVptc-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-1">
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-1" target="Vp4kdVkUUNJDZ35TVptc-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="270" as="sourcePoint" />
             <mxPoint x="410" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
