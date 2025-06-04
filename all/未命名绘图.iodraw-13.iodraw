@@ -22,8 +22,11 @@
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="330" as="sourcePoint" />
-            <mxPoint x="470" y="280" as="targetPoint" />
+            <mxPoint x="399" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vp4kdVkUUNJDZ35TVptc-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
