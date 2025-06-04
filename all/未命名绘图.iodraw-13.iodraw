@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-8" value="选择具体书籍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vp4kdVkUUNJDZ35TVptc-7">
           <mxGeometry x="-0.3711" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vp4kdVkUUNJDZ35TVptc-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vp4kdVkUUNJDZ35TVptc-6">
@@ -55,9 +55,6 @@
           <mxGeometry x="-0.6894" y="2" relative="1" as="geometry">
             <mxPoint x="16" y="2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Vp4kdVkUUNJDZ35TVptc-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
